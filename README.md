@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px">😎
-- <h3>My name is Yonatan 🙋🏻‍♂️</h3>
-- <h3>I hold a B.Sc. degree in software engineering 👨🏻‍🎓</h3>
-- <h3>I enjoy coding and learning new thing every day! 👩🏻‍💻</h3>
+- <h2>My name is Yonatan 🙋🏻‍♂️</h2>
+- <h2>B.Sc. in software engineering 👨🏻‍🎓</h2>
+- <h2>Enjoy coding and learning new thing every day! 👩🏻‍💻</h2>
 
 <br>
 
