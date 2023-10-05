@@ -13,3 +13,5 @@
 <a href="mailto: yon@outlook.co.il">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/800px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Outlook" width="30">
 </a>
+
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
