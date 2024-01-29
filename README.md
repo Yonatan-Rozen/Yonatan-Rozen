@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yonatan Rozen</h1>
 <h3 align="center">A passionate programmer with B.Sc in Software Engineering</h3>
 
-- 🔭 I’m currently working on [A Goal Tracker](https://github.com/Yonatan-Rozen/goal-tracker) project
+- 🔭 I’m currently working on [A Goal Tracker](https://github.com/Yonatan-Rozen/goal-tracker) app
 
 - 🌱 I’m currently learning React in [**The Ultimate React Course**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) at Udemy
 
