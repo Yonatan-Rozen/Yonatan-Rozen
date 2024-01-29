@@ -18,7 +18,7 @@
 
 <a href="https://linkedin.com/in/yonatan-rozen-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonatan-rozen-" height="40" width="40" /></a>
 <span style="margin-right: 10px;"></span>
-<a href="mailto: yon@outlook.co.il" target="blank"><img align="center" src="https://github.com/Yonatan-Rozen/Yonatan-Rozen/assets/44236017/256f6a47-84f6-4835-8cdc-0b42874b7e52" alt="outlook" height="40" width="40"></a>
+<a href="mailto: yon969@outlook.co.il" target="blank"><img align="center" src="https://github.com/Yonatan-Rozen/Yonatan-Rozen/assets/44236017/256f6a47-84f6-4835-8cdc-0b42874b7e52" alt="outlook" height="40" width="40"></a>
 <span style="margin-right: 10px;"></span>
 <a href="https://www.leetcode.com/yonatanrozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yonatanrozen" height="40" width="40" /></a>
 
