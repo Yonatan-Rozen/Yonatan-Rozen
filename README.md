@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Goal Tracker](https://github.com/Yonatan-Rozen/goal-tracker) app
 
-- 🌱 I’m currently learning React in [**The Ultimate React Course**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) at Udemy
+- 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on Udemy
 
 - 💬 Ask me anything about **C, C++, C#, Java, JavaScript & React**
 
