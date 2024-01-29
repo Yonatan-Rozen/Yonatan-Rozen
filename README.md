@@ -21,7 +21,7 @@
 <span style="margin-right: 10px;"></span>
 <a href="https://www.leetcode.com/yonatanrozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yonatanrozen" height="40" width="40" /></a>
 </p>
-  <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="programming" width="600" height="450"/>
+  <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="programming" width="300" height="200"/>
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
