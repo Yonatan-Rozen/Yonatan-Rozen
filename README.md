@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on Udemy
 
-- 💬 Ask me anything about **C, C++, C#, Java, JavaScript & React**
+- 💬 Ask me anything about my Wordle clone - [Five Findner](https://yonatan-rozen.github.io/Five-Finder/)
 
 - 📄 Know about my experiences
   <span style="margin-right: 10px;"></span>
