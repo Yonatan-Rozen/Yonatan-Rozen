@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Goal Tracker](https://github.com/Yonatan-Rozen/Ultimate-React-Course/tree/main/Part%201%20-%20React%20Fundamentals/My%20Projects/goal-tracker) app
 
-- 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on Udemy
+- 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/)
 
 - 💬 Ask me anything about my Wordle clone - [Five Findner](https://yonatan-rozen.github.io/Five-Finder/)
 
