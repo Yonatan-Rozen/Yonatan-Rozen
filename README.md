@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yonatan Rozen</h1>
-<h3 align="center">A passionate programmer with B.Sc in Software Engineering</h3>
+<h1>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=900&pause=&color=4185D4&background=FFFFFF00&multiline=true&repeat=false&random=false&width=200&height=50&lines=++Hey+There!%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2400&pause=1400&color=27D485&repeat=false&random=false&width=500&height=50&lines=++;My+Name+Is+Yonatan+Rozen+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=5500&pause=2400&color=CCD41D&repeat=false&random=false&width=750&height=30&lines=++;A+passionate+programmer+w/+B.Sc+in+Software+Engineering" alt="Typing SVG" /></a>
+</h1>
 
 - 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/)
 
@@ -13,7 +16,7 @@
 
 - ⚡ Fun fact - **I like video games 💪🏻😎 PC Master Race FTW! 💻**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/yonatan-rozen-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonatan-rozen-" height="40" width="40" /></a>
 <span style="margin-right: 10px;"></span>
@@ -21,8 +24,9 @@
 <span style="margin-right: 10px;"></span>
 <a href="https://www.leetcode.com/yonatanrozen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yonatanrozen" height="40" width="40" /></a>
 </p>
-  <img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="programming" width="400" height="250"/>
-<h3 align="left">Languages:</h3>
+<img align="right" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="programming" width="400" height="250"/>
+
+# Languages
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <span style="margin-right: 10px;"></span>
@@ -43,7 +47,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Frequently used Technologies:</h3>
+# Tools & Technologies
+<h3 align="left">Frequently used:</h3>
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <span style="margin-right: 10px;"></span>
