@@ -1,7 +1,9 @@
 <h1>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=900&pause=&color=4185D4&background=FFFFFF00&multiline=true&repeat=false&random=false&width=200&height=50&lines=++Hey+There!%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%98%8E" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2400&pause=1400&color=27D485&repeat=false&random=false&width=500&height=50&lines=++;My+Name+Is+Yonatan+Rozen+" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=5500&pause=2400&color=CCD41D&repeat=false&random=false&width=750&height=30&lines=++;A+passionate+programmer+w/+B.Sc+in+Software+Engineering" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fugaz+One&weight=400&size=30&duration=1200&pause=&color=4185D4&multiline=true&vCenter=true&repeat=false&random=false&width=260&height=80&lines=Hey+There!%F0%9F%91%8B%F0%9F%8F%BB%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fugaz+One&weight=400&size=30&duration=2400&pause=1400&color=B40000&repeat=false&random=false&width=500&height=50&lines=; My+Name+Is+Yonatan+Rozen+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fugaz+One&weight=400&size=26&duration=2300&pause=4000&color=CCD41D&repeat=false&random=false&width=340&height=80&lines=; A+passionate+programmer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fugaz+One&weight=400&size=26&duration=3200&pause=6500&color=27D485&repeat=false&random=false&width=500&height=40&lines=++; w/+B.Sc+in+Software+Engineering" alt="Typing SVG" /></a>
+  
 </h1>
 
 - 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/)
