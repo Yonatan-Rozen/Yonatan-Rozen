@@ -6,7 +6,9 @@
   
 </h1>
 
-- 🌱 I’m currently learning React in [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/)
+- 🌱 Take a look at my progress at [**'The Ultimate React Course'**](https://github.com/Yonatan-Rozen/Ultimate-React-Course) on [Udemy](https://www.udemy.com/course/the-ultimate-react-course/)
+
+- 🎮 Learning game development using [godot](https://github.com/Yonatan-Rozen/First-Godot-Game) with inspiration from [Brackeys' video](https://www.youtube.com/watch?v=LOhfqjmasi0). Enjoy! 🤩
 
 - 🔭 Give me feedback on my [Goal Tracker](https://github.com/Yonatan-Rozen/Ultimate-React-Course/tree/main/Part%201%20-%20React%20Fundamentals/My%20Projects/goal-tracker) app
 
